@@ -1,4 +1,3 @@
-
 # Build a Quiz
 
 ## 설명
@@ -14,4 +13,4 @@ npm run start
 ```
 
 ## 실행화면
-![ ](https://i.ibb.co/vcptxKd/quiz.gif)
+![quiz](https://user-images.githubusercontent.com/73515375/127744524-97f78650-14bd-4d23-86e0-83e517008b55.gif)
