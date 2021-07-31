@@ -14,4 +14,4 @@ npm run start
 ```
 
 ## 실행화면
-![ ](https://i.ibb.co/S6bLX9m/quiz.gif)
+![ ](https://i.ibb.co/NF546HN/quiz.gif)
